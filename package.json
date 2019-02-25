@@ -1,0 +1,23 @@
+{
+  "name": "read-in-csv",
+  "version": "1.0.0",
+  "description": "reads in a csv for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/read-in-csv.git"
+  },
+  "author": "Joshua McKinney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/read-in-csv/issues"
+  },
+  "homepage": "https://github.com/byuitechops/read-in-csv#readme",
+  "dependencies": {
+    "d3-dsv": "^1.1.1",
+    "strip-bom": "^3.0.0"
+  }
+}
